@@ -1,0 +1,44 @@
+body{
+  margin-top:250px;
+  background-color: #FF168E !important;
+}
+
+i {
+  font-size: 2em !important;
+  padding: 0 5px;
+}
+
+#title{
+  position: relative;
+  font-family: Helvetica;
+  text-align: right;
+}
+
+#about{
+  position: relative;
+  margin:10px 60px 10px 60px;
+  padding:10px 60px 10px 60px;
+  font-family: Helvetica;
+}
+
+#portfolio{
+  position: relative;
+  margin:10px 60px 10px 60px;
+  padding:10px 60px 10px 60px;
+  font-family: Helvetica;
+}
+
+#contact{
+  position: relative;
+  margin:10px 60px 10px 60px;
+  padding:10px 60px 10px 60px;
+  font-family: Helvetica;
+} 
+
+#footer{
+  position: relative;
+  text-align: center;
+  color: #FFFABC;
+  padding:10px 10px 10px 10px;
+  background-color: #239AA0;
+}
